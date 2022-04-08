@@ -1,0 +1,110 @@
+{
+  "aws": {
+    "vpc": {
+      "vpc-a": {
+        "properties": [
+          {
+            "name": "xxx",
+            "description": "aaa"
+          },
+          {
+            "name": "xxx",
+            "description": "aaa"
+          }
+        ]
+      },
+      "vpc-b": {
+        "properties": [
+          {
+            "name": "xxx",
+            "description": "aaa"
+          },
+          {
+            "name": "xxx",
+            "description": "aaa"
+          }
+        ]
+      }
+    },
+    "s3": {
+      "s3-a": {
+        "properties": [
+          {
+            "name": "xxx",
+            "description": "aaa"
+          },
+          {
+            "name": "xxx",
+            "description": "aaa"
+          }
+        ]
+      },
+      "s3-b": {
+        "properties": [
+          {
+            "name": "xxx",
+            "description": "aaa"
+          },
+          {
+            "name": "xxx",
+            "description": "aaa"
+          }
+        ]
+      }
+    }
+  },
+  "gcp": {
+    "vpc": {
+      "vpc-a": {
+        "properties": [
+          {
+            "name": "xxx",
+            "description": "aaa"
+          },
+          {
+            "name": "xxx",
+            "description": "aaa"
+          }
+        ]
+      },
+      "vpc-b": {
+        "properties": [
+          {
+            "name": "xxx",
+            "description": "aaa"
+          },
+          {
+            "name": "xxx",
+            "description": "aaa"
+          }
+        ]
+      }
+    },
+    "cloudstorage": {
+      "cloudstorage-a": {
+        "properties": [
+          {
+            "name": "xxx",
+            "description": "aaa"
+          },
+          {
+            "name": "xxx",
+            "description": "aaa"
+          }
+        ]
+      },
+      "cloudstorage-b": {
+        "properties": [
+          {
+            "name": "xxx",
+            "description": "aaa"
+          },
+          {
+            "name": "xxx",
+            "description": "aaa"
+          }
+        ]
+      }
+    }
+  }
+}
